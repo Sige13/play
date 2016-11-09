@@ -12,5 +12,8 @@ List of To Do
 8. Drink
 //gdhadi
 9. Reading
-
->>>>>>> 7ed2c68a35bc0c5ece5c3e150944637ecd052835
+//Sige13
+10. Read
+11. Write
+//Sige13
+12. Game
